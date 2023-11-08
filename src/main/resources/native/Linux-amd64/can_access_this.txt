@@ -1,0 +1,6 @@
+This
+FILE "can_access_this.txt"
+can be
+accessed.
+>>>>LOCAL COMPUTER 008<<<<
+>>>>LOCAL COMPUTER 800<<<<
